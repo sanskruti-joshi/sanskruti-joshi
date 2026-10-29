@@ -3,7 +3,7 @@
 
 Software Engineer focused on Data Science and Machine Learning, with experience in predictive modeling, SHAP-based interpretation, and statistical drift detection. Interested in building reliable, interpretable ML solutions for real-world problems.
 
-[GitHub](https://github.com/sanskruti-joshi) · [Portfolio](https://sanskruti-joshi.github.io/)
+[GitHub](https://github.com/sanskruti-joshi) · [Portfolio](https://sanskruti-joshi.github.io/) · [LinkedIn](www.linkedin.com/in/sanskrutirjoshi)
 
 ---
 
@@ -76,15 +76,5 @@ Explore my repositories for additional work in data science, machine learning, a
 | **M.Sc. Data Science** - CGPA: 9.02/10 | **Research Publication** - Drift Detection in Machine Learning Systems |
 | **B.Sc. Computer Science** - CGPA: 9.6/10 | **Academic Excellence** - First Rank; Endowment Prize |
 | **NPTEL Certification** - Programming, Data Structures and Algorithms using Python | **Elite-Silver Distinction** - Top 1% |
-
----
-
-## Let's Connect
-
-I am interested in opportunities and collaborations across Data Science, Machine Learning, and applied AI.
-
-- **GitHub:** [sanskruti-joshi](https://github.com/sanskruti-joshi)
-- **Portfolio:** [sanskruti-joshi.github.io](https://sanskruti-joshi.github.io/)
-- **LinkedIn:** [Add your LinkedIn profile URL](www.linkedin.com/in/sanskrutirjoshi)
 
 ---
