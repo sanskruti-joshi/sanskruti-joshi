@@ -37,7 +37,7 @@ A research-oriented project exploring data distribution changes and their implic
 
 [View Repository](REPLACE_WITH_DRIFT_PROJECT_URL) · [Research Paper](REPLACE_WITH_PAPER_URL)
 
-### 02. Fake Account Identifier — Machine Learning Model Comparison
+### 02. Fake Social Media Account Detection — ML Model Comparison
 
 A classification project investigating machine learning approaches to fake-account identification.
 
@@ -47,7 +47,7 @@ A classification project investigating machine learning approaches to fake-accou
 
 **Technologies:** Python, Scikit-learn, XGBoost, Pandas
 
-[View Repository](https://github.com/sanskruti-joshi/AI-based-Fake-Account-Identifier)
+[View Repository](https://github.com/sanskruti-joshi/Fake-Social-Media-Account-Detection)
 
 ### 03. Handwritten Digit Recognition Using CNN
 
