@@ -3,7 +3,7 @@
 
 Software Engineer focused on Data Science and Machine Learning, with experience in predictive modeling, SHAP-based interpretation, and statistical drift detection. Interested in building reliable, interpretable ML solutions for real-world problems.
 
-[GitHub](https://github.com/sanskruti-joshi) · [Portfolio](https://sanskruti-joshi.github.io/) · [LinkedIn](www.linkedin.com/in/sanskrutirjoshi)
+[Portfolio](https://sanskruti-joshi.github.io/) · [LinkedIn](www.linkedin.com/in/sanskrutirjoshi)
 
 ---
 
